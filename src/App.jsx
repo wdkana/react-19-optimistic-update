@@ -1,3 +1,4 @@
+//! NO OPTIMISM
 import ChatBubles from "./components/ChatBubles";
 import { useRef, useState, useEffect } from "react";
 
